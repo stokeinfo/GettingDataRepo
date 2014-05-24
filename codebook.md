@@ -61,6 +61,6 @@ tBodyGyroJerkMean
 ##Formatting Documentation
 
 In essence, the formatting achieves the result show by the diagram below:
-![alt text](C:\Users\Jonathan\Desktop\GettingDataProjectDiagram.png)
+![image1](/GettingDataProjectDiagram.png)
 
 For exact documentation on the steps and work performed to clean up the data, see run_analysis.R or README.md located in this repository.
